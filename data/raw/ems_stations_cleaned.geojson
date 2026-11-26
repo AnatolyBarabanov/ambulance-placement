@@ -1,0 +1,968 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0590408944027,
+                    40.1304841173224
+                ]
+            },
+            "properties": {
+                "station_id": 0,
+                "name": "Fetters Mill EMS Previously Bryn Athyn Fire",
+                "address": "2815 Buck Road",
+                "city": "Bryn Athyn",
+                "municipality": "Bryn Athyn",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "319"
+                ],
+                "agency_names": [
+                    "Fetters Mill EMS Previously Bryn Athyn Fire"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1279010009807,
+                    40.0818811552266
+                ]
+            },
+            "properties": {
+                "station_id": 1,
+                "name": "Cheltenham Township EMS",
+                "address": "8230 Old York Road",
+                "city": "Cheltenham",
+                "municipality": "Cheltenham",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "358"
+                ],
+                "agency_names": [
+                    "Cheltenham Township EMS"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1652985180889,
+                    40.0943767424195
+                ]
+            },
+            "properties": {
+                "station_id": 2,
+                "name": "Cheltenham Township EMS",
+                "address": "2063 West Church Road",
+                "city": "Glenside",
+                "municipality": "Cheltenham",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "358A"
+                ],
+                "agency_names": [
+                    "Cheltenham Township EMS"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.194825988772,
+                    40.0993272857172
+                ]
+            },
+            "properties": {
+                "station_id": 3,
+                "name": "Community Ambulance Association of Ambler",
+                "address": "8903 Hawthorne Lane",
+                "city": "Glenside",
+                "municipality": "Springfield",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "351A"
+                ],
+                "agency_names": [
+                    "Community Ambulance Association of Ambler"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2025623178326,
+                    40.1681524537373
+                ]
+            },
+            "properties": {
+                "station_id": 4,
+                "name": "Community Ambulance Association of Ambler",
+                "address": "1414 East Butler Pike",
+                "city": "Ambler",
+                "municipality": "Upper Dublin",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "351"
+                ],
+                "agency_names": [
+                    "Community Ambulance Association of Ambler"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5367539434046,
+                    40.1797501206768
+                ]
+            },
+            "properties": {
+                "station_id": 5,
+                "name": "Friendship of Royersford",
+                "address": "269 Green Street",
+                "city": "Royersford",
+                "municipality": "Royersford",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "325",
+                    "325F"
+                ],
+                "agency_names": [
+                    "Friendship of Royersford"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6176298392204,
+                    40.3189766768903
+                ]
+            },
+            "properties": {
+                "station_id": 6,
+                "name": "Gilbertsville Area Community Ambulance Service",
+                "address": "91 Jackson Road",
+                "city": "Gilbertsville",
+                "municipality": "Douglass",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "332"
+                ],
+                "agency_names": [
+                    "Gilbertsville Area Community Ambulance Service"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.608163414099,
+                    40.2700217089646
+                ]
+            },
+            "properties": {
+                "station_id": 7,
+                "name": "Goodwill Ambulance Sub Station",
+                "address": "815 White Pine Lane",
+                "city": "Pottstown",
+                "municipality": "Lower Pottsgrove",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "329B"
+                ],
+                "agency_names": [
+                    "Goodwill Ambulance Sub Station"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6372800736386,
+                    40.2437833725504
+                ]
+            },
+            "properties": {
+                "station_id": 8,
+                "name": "Goodwill Ambulance",
+                "address": "714 High Street",
+                "city": "Pottstown",
+                "municipality": "Pottstown",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "329"
+                ],
+                "agency_names": [
+                    "Goodwill Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1780090803104,
+                    40.2068411652749
+                ]
+            },
+            "properties": {
+                "station_id": 9,
+                "name": "Horsham Fire Company Ambulance",
+                "address": "1023 Horsham Road",
+                "city": "Ambler",
+                "municipality": "Horsham",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "352A"
+                ],
+                "agency_names": [
+                    "Horsham Fire Company Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4322050223598,
+                    40.1270909533668
+                ]
+            },
+            "properties": {
+                "station_id": 10,
+                "name": "Lower Providence Community Center Ambulance Sub Station",
+                "address": "24 Lark Lane",
+                "city": "Audobon",
+                "municipality": "Lower Providence",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "322A"
+                ],
+                "agency_names": [
+                    "Lower Providence Community Center Ambulance Sub Station"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.408384200625,
+                    40.1602499851495
+                ]
+            },
+            "properties": {
+                "station_id": 11,
+                "name": "Lower Providence Community Center Ambulance",
+                "address": "10 Parklane Drive",
+                "city": "Eagleville",
+                "municipality": "Lower Providence",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "322"
+                ],
+                "agency_names": [
+                    "Lower Providence Community Center Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4610361079427,
+                    40.2722405175932
+                ]
+            },
+            "properties": {
+                "station_id": 12,
+                "name": "Plymouth Community Ambulance Association",
+                "address": "53 Spring Mount Road",
+                "city": "Schwenksville",
+                "municipality": "Lower Frederick",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "308C"
+                ],
+                "agency_names": [
+                    "Plymouth Community Ambulance Association"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2963961804065,
+                    40.1272532463452
+                ]
+            },
+            "properties": {
+                "station_id": 13,
+                "name": "Plymouth Community Ambulance Association",
+                "address": "902 Germantown Pike",
+                "city": "Plymouth Meeting",
+                "municipality": "Plymouth",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "308",
+                    "308F"
+                ],
+                "agency_names": [
+                    "Plymouth Community Ambulance Association"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3612130302209,
+                    40.1543264144982
+                ]
+            },
+            "properties": {
+                "station_id": 14,
+                "name": "Plymouth Community Ambulance Association",
+                "address": "2100 Campus Lane",
+                "city": "Norristown",
+                "municipality": "East Norriton",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "308B"
+                ],
+                "agency_names": [
+                    "Plymouth Community Ambulance Association"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3415037142964,
+                    40.1131257090739
+                ]
+            },
+            "properties": {
+                "station_id": 15,
+                "name": "Plymouth Community Ambulance Association",
+                "address": "204 East Main Street",
+                "city": "Norristown",
+                "municipality": "Norristown",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "308A"
+                ],
+                "agency_names": [
+                    "Plymouth Community Ambulance Association"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1136846173105,
+                    40.0829752385511
+                ]
+            },
+            "properties": {
+                "station_id": 16,
+                "name": "Second Alarmers Rescue Squad",
+                "address": "876 Jenkintown Road",
+                "city": "Elkins Park",
+                "municipality": "Abington",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "382"
+                ],
+                "agency_names": [
+                    "Second Alarmers Rescue Squad"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2845226222009,
+                    40.161537138186
+                ]
+            },
+            "properties": {
+                "station_id": 17,
+                "name": "Second Alarmers Rescue Squad",
+                "address": "960 Wentz Road",
+                "city": "Blue Bell",
+                "municipality": "Whitpain",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "385"
+                ],
+                "agency_names": [
+                    "Second Alarmers Rescue Squad"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1069528703317,
+                    40.1750895907436
+                ]
+            },
+            "properties": {
+                "station_id": 18,
+                "name": "Second Alarmers Rescue Squad",
+                "address": "118 South York Road",
+                "city": "Hatboro",
+                "municipality": "Hatboro",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "384"
+                ],
+                "agency_names": [
+                    "Second Alarmers Rescue Squad"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1119924796534,
+                    40.1448952816836
+                ]
+            },
+            "properties": {
+                "station_id": 19,
+                "name": "Second Alarmers Rescue Squad",
+                "address": "307 Davisville Road",
+                "city": "Willow Grove",
+                "municipality": "Upper Moreland\u00a0",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "381"
+                ],
+                "agency_names": [
+                    "Second Alarmers Rescue Squad"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1651678435116,
+                    40.1120009531884
+                ]
+            },
+            "properties": {
+                "station_id": 20,
+                "name": "Second Alarmers Rescue Squad",
+                "address": "2843 Limekiln Pike",
+                "city": "Glenside",
+                "municipality": "Abington",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "383"
+                ],
+                "agency_names": [
+                    "Second Alarmers Rescue Squad"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4080023313638,
+                    40.2218048998633
+                ]
+            },
+            "properties": {
+                "station_id": 21,
+                "name": "Skippack Emergency Medical Services",
+                "address": "4058 Mensch Road",
+                "city": "Skippack",
+                "municipality": "Skippack",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "336"
+                ],
+                "agency_names": [
+                    "Skippack Emergency Medical Services"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4900460248382,
+                    40.394071301159
+                ]
+            },
+            "properties": {
+                "station_id": 22,
+                "name": "Upper Perkiomen Valley Ambulance",
+                "address": "2199 East Buck Road",
+                "city": "Pennsburg",
+                "municipality": "Upper Hanover",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "369"
+                ],
+                "agency_names": [
+                    "Upper Perkiomen Valley Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2255134835142,
+                    40.2367160880597
+                ]
+            },
+            "properties": {
+                "station_id": 23,
+                "name": "Volunteer Medical Service Corps of Lansdale",
+                "address": "1001 Stump Road",
+                "city": "North Wales",
+                "municipality": "Montgomery",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345A"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lansdale"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2715482603831,
+                    40.2518450463728
+                ]
+            },
+            "properties": {
+                "station_id": 24,
+                "name": "Volunteer Medical Service Corps of Lansdale",
+                "address": "175 Medical Campus Drive",
+                "city": "Lansdale",
+                "municipality": "Hatfield",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lansdale"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3028823924912,
+                    40.2399892985412
+                ]
+            },
+            "properties": {
+                "station_id": 25,
+                "name": "Volunteer Medical Service Corps of Lansdale",
+                "address": "988 Allentown Road",
+                "city": "Lansdale",
+                "municipality": "Upper Gwynedd",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345B"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lansdale"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2851044511507,
+                    40.007421263322
+                ]
+            },
+            "properties": {
+                "station_id": 26,
+                "name": "Volunteer Medical Service Corps of Lower Merion and Narberth",
+                "address": "101 Sibley Avenue",
+                "city": "Ardmore",
+                "municipality": "Lower Merion",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "313"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lower Merion and Narberth"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2605009901701,
+                    40.094959034352
+                ]
+            },
+            "properties": {
+                "station_id": 27,
+                "name": "Whitemarsh Ambulance",
+                "address": "4019 Joshua Road",
+                "city": "Lafayette Hill",
+                "municipality": "Whitemarsh",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "318"
+                ],
+                "agency_names": [
+                    "Whitemarsh Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3201404168505,
+                    40.2711382358448
+                ]
+            },
+            "properties": {
+                "station_id": 28,
+                "name": "Volunteer Medical Service Corps of Lansdale",
+                "address": "380 Fairgrounds Road",
+                "city": "Hatfield",
+                "municipality": "Hatfield",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345C",
+                    "345F"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lansdale"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3301726927108,
+                    40.0871606652536
+                ]
+            },
+            "properties": {
+                "station_id": 29,
+                "name": "Upper Merion EMS - Main Station",
+                "address": "609 A Street",
+                "city": "King of Prussia",
+                "municipality": "Upper Merion",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "356"
+                ],
+                "agency_names": [
+                    "Upper Merion EMS - Main Station"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3831580469864,
+                    40.0908806714644
+                ]
+            },
+            "properties": {
+                "station_id": 30,
+                "name": "Upper Merion EMS",
+                "address": "170 Allendale Road",
+                "city": "King of Prussia",
+                "municipality": "Upper Merion",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "356A"
+                ],
+                "agency_names": [
+                    "Upper Merion EMS"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1305851430187,
+                    40.183012637963
+                ]
+            },
+            "properties": {
+                "station_id": 31,
+                "name": "Horsham Fire Company Ambulance",
+                "address": "315 Meetinghouse Road",
+                "city": "Horsham",
+                "municipality": "Horsham",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "352"
+                ],
+                "agency_names": [
+                    "Horsham Fire Company Ambulance"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3495596129646,
+                    40.2032384133691
+                ]
+            },
+            "properties": {
+                "station_id": 32,
+                "name": "Skippack Emergency Medical Services Sub Station",
+                "address": "3103 Skippack Pike",
+                "city": "Lansdale",
+                "municipality": "Worcester",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "336A"
+                ],
+                "agency_names": [
+                    "Skippack Emergency Medical Services Sub Station"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3254522202234,
+                    40.3147098762773
+                ]
+            },
+            "properties": {
+                "station_id": 33,
+                "name": "Volunteer Medical Service Corps of Lansdale",
+                "address": "266 North Second Street",
+                "city": "Souderton",
+                "municipality": "Souderton",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345D"
+                ],
+                "agency_names": [
+                    "Volunteer Medical Service Corps of Lansdale"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3777203403955,
+                    40.2689704527618
+                ]
+            },
+            "properties": {
+                "station_id": 34,
+                "name": "Freedom Valley Medical Rescue",
+                "address": "309 Main Street",
+                "city": "Harleysville",
+                "municipality": "Lower Salford",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "376"
+                ],
+                "agency_names": [
+                    "Freedom Valley Medical Rescue"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5228738964522,
+                    40.2317789128454
+                ]
+            },
+            "properties": {
+                "station_id": 35,
+                "name": "Freedom Valley Medical Rescue",
+                "address": "390 West Ridge Pike",
+                "city": "Royersford",
+                "municipality": "Limerick",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "376A"
+                ],
+                "agency_names": [
+                    "Freedom Valley Medical Rescue"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4905061233993,
+                    40.1618935281593
+                ]
+            },
+            "properties": {
+                "station_id": 36,
+                "name": "Friendship of Royersford",
+                "address": "1315 Black Rock Road",
+                "city": "Phoenixville",
+                "municipality": "Upper Providence",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "325A"
+                ],
+                "agency_names": [
+                    "Friendship of Royersford"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4772206337347,
+                    40.1981855714497
+                ]
+            },
+            "properties": {
+                "station_id": 37,
+                "name": "Skippack Ambulance Sub Station 336B",
+                "address": "20 W Fifth Avenue",
+                "city": "Trappe",
+                "municipality": "Trappe",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "336B"
+                ],
+                "agency_names": [
+                    "Skippack Ambulance Sub Station 336B"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.376196214635,
+                    40.288922124695
+                ]
+            },
+            "properties": {
+                "station_id": 38,
+                "name": "Lansdale VMSC Ambulance Sub Station ",
+                "address": "800 Maple Avenue",
+                "city": "Harleysville",
+                "municipality": "Franconia",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "345E"
+                ],
+                "agency_names": [
+                    "Lansdale VMSC Ambulance Sub Station "
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2973487182138,
+                    40.0742030067777
+                ]
+            },
+            "properties": {
+                "station_id": 39,
+                "name": "VMSC of Lower Merion and Narberth Sub Station",
+                "address": "500 East Hector Street",
+                "city": "Conshohocken",
+                "municipality": "Conshohocken",
+                "county": "Montgomery County",
+                "ems_numbers": [
+                    "313A"
+                ],
+                "agency_names": [
+                    "VMSC of Lower Merion and Narberth Sub Station"
+                ]
+            }
+        }
+    ]
+}

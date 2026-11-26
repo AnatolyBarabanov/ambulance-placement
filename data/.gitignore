@@ -1,0 +1,41 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials and API keys
+.env
+.env.*
+!.env.example
+secrets.toml
+credentials.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# OSMnx download cache
+/cache/
+
+# Large raw geographic downloads
+data/raw/*.zip
+data/raw/*.graphml
+
+# Generated interactive maps
+visualizations/*.html
+
+# Temporary files
+*.tmp
+*.log

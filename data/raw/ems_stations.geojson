@@ -1,0 +1,2741 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0590408944027,
+                    40.1304841173224
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES319@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Fetters Mill EMS Previously Bryn Athyn Fire",
+                "EMS_Num": "319",
+                "Address": "2815 Buck Road",
+                "City": "Bryn Athyn",
+                "State": "PA",
+                "Zip": "19009",
+                "Municipality": "Bryn Athyn",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "http://bafireco.org/",
+                "Type": "EMS",
+                "GlobalID": "0e8d1171-c295-4355-b832-ae603248f383"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1279010009807,
+                    40.0818811552266
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES358@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Cheltenham Township EMS",
+                "EMS_Num": "358",
+                "Address": "8230 Old York Road",
+                "City": "Cheltenham",
+                "State": "PA",
+                "Zip": "19027",
+                "Municipality": "Cheltenham",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.cheltenhamtownship.org/pview.aspx?id=2904&catid=26#gsc.tab=0",
+                "Type": "EMS",
+                "GlobalID": "f96dbffe-fb87-4fbf-8ad4-e5794c95cb11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1652985180889,
+                    40.0943767424195
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES358A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Cheltenham Township EMS",
+                "EMS_Num": "358A",
+                "Address": "2063 West Church Road",
+                "City": "Glenside",
+                "State": "PA",
+                "Zip": "19038",
+                "Municipality": "Cheltenham",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.cheltenhamtownship.org/pview.aspx?id=2904&catid=26#gsc.tab=0",
+                "Type": "EMS",
+                "GlobalID": "be524dac-861a-4fe9-8874-ea994347e1ee"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.194825988772,
+                    40.0993272857172
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES351A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Community Ambulance Association of Ambler",
+                "EMS_Num": "351A",
+                "Address": "8903 Hawthorne Lane",
+                "City": "Glenside",
+                "State": "PA",
+                "Zip": "19038",
+                "Municipality": "Springfield",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://amblerambulance.org/",
+                "Type": "EMS",
+                "GlobalID": "3cb0a8a4-b962-4a85-93be-3bb65c4862b8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2025623178326,
+                    40.1681524537373
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES351@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Community Ambulance Association of Ambler",
+                "EMS_Num": "351",
+                "Address": "1414 East Butler Pike",
+                "City": "Ambler",
+                "State": "PA",
+                "Zip": "19002",
+                "Municipality": "Upper Dublin",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://amblerambulance.org/",
+                "Type": "EMS",
+                "GlobalID": "1147e160-c89c-4be9-b2a3-bf2f8f6b9e00"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5367539434046,
+                    40.1797501206768
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES325@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Friendship of Royersford",
+                "EMS_Num": "325",
+                "Address": "269 Green Street",
+                "City": "Royersford",
+                "State": "PA",
+                "Zip": "19468",
+                "Municipality": "Royersford",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.rfd98.org/content/services/ems.cfm",
+                "Type": "EMS",
+                "GlobalID": "2056c022-80bd-4fcf-bb8d-bfb5df1a1f56"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6176298392204,
+                    40.3189766768903
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES332@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Gilbertsville Area Community Ambulance Service",
+                "EMS_Num": "332",
+                "Address": "91 Jackson Road",
+                "City": "Gilbertsville",
+                "State": "PA",
+                "Zip": "19525",
+                "Municipality": "Douglass",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.douglasstownship.org/emergency-services/emergency-medical-services/",
+                "Type": "EMS",
+                "GlobalID": "bf80ba09-b51b-4e80-98f1-58e5960fb239"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.608163414099,
+                    40.2700217089646
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES329B@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Goodwill Ambulance Sub Station",
+                "EMS_Num": "329B",
+                "Address": "815 White Pine Lane",
+                "City": "Pottstown",
+                "State": "PA",
+                "Zip": "19464",
+                "Municipality": "Lower Pottsgrove",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.goodwillpottstown.com/main/home.asp",
+                "Type": "EMS",
+                "GlobalID": "39500489-b436-4ed4-a95e-f499eb0f0c85"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6372800736386,
+                    40.2437833725504
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES329@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Goodwill Ambulance",
+                "EMS_Num": "329",
+                "Address": "714 High Street",
+                "City": "Pottstown",
+                "State": "PA",
+                "Zip": "19464",
+                "Municipality": "Pottstown",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.goodwillpottstown.com/main/home.asp",
+                "Type": "EMS",
+                "GlobalID": "4a3a9bfc-ddde-41bc-a495-15dd1a488773"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1780090803104,
+                    40.2068411652749
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES352A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Horsham Fire Company Ambulance",
+                "EMS_Num": "352A",
+                "Address": "1023 Horsham Road",
+                "City": "Ambler",
+                "State": "PA",
+                "Zip": "19002",
+                "Municipality": "Horsham",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.horsham.org/pView.aspx?id=10544&catid=611",
+                "Type": "EMS",
+                "GlobalID": "9c209144-48fc-4151-8f8d-d55541f865ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4322050223598,
+                    40.1270909533668
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES322A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Lower Providence Community Center Ambulance Sub Station",
+                "EMS_Num": "322A",
+                "Address": "24 Lark Lane",
+                "City": "Audobon",
+                "State": "PA",
+                "Zip": "19403",
+                "Municipality": "Lower Providence",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic322.com/",
+                "Type": "EMS",
+                "GlobalID": "07631a2b-1152-4cca-90aa-c07e635aae01"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.408384200625,
+                    40.1602499851495
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES322@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Lower Providence Community Center Ambulance",
+                "EMS_Num": "322",
+                "Address": "10 Parklane Drive",
+                "City": "Eagleville",
+                "State": "PA",
+                "Zip": "19403",
+                "Municipality": "Lower Providence",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic322.com/",
+                "Type": "EMS",
+                "GlobalID": "97fc2ced-5e38-4d15-b2fe-3d1b0eb675de"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4610361079427,
+                    40.2722405175932
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES308C@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Plymouth Community Ambulance Association",
+                "EMS_Num": "308C",
+                "Address": "53 Spring Mount Road",
+                "City": "Schwenksville",
+                "State": "PA",
+                "Zip": "19473",
+                "Municipality": "Lower Frederick",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic308.org/",
+                "Type": "EMS",
+                "GlobalID": "af2725e0-e188-41f4-aa5c-958badfb9fb6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2963961804065,
+                    40.1272532463452
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES308@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Plymouth Community Ambulance Association",
+                "EMS_Num": "308",
+                "Address": "902 Germantown Pike",
+                "City": "Plymouth Meeting",
+                "State": "PA",
+                "Zip": "19463",
+                "Municipality": "Plymouth",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic308.org/",
+                "Type": "EMS",
+                "GlobalID": "a5d98bec-2b57-40ea-aee2-707d342bda65"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3612130302209,
+                    40.1543264144982
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES308B@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Plymouth Community Ambulance Association",
+                "EMS_Num": "308B",
+                "Address": "2100 Campus Lane",
+                "City": "Norristown",
+                "State": "PA",
+                "Zip": "19403",
+                "Municipality": "East Norriton",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic308.org/",
+                "Type": "EMS",
+                "GlobalID": "c8a04502-716a-46a7-a995-2c335549cd1e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3415037142964,
+                    40.1131257090739
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES308A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Plymouth Community Ambulance Association",
+                "EMS_Num": "308A",
+                "Address": "204 East Main Street",
+                "City": "Norristown",
+                "State": "PA",
+                "Zip": "19401",
+                "Municipality": "Norristown",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic308.org/",
+                "Type": "EMS",
+                "GlobalID": "85d1bf5a-d116-446b-81f7-ee26f1eeb2b3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1136846173105,
+                    40.0829752385511
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES382@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Second Alarmers Rescue Squad",
+                "EMS_Num": "382",
+                "Address": "876 Jenkintown Road",
+                "City": "Elkins Park",
+                "State": "PA",
+                "Zip": "19027",
+                "Municipality": "Abington",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.sars.org/",
+                "Type": "EMS",
+                "GlobalID": "6564e935-5fbf-4c10-afc0-bc90dfee5450"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2845226222009,
+                    40.161537138186
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES385@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Second Alarmers Rescue Squad",
+                "EMS_Num": "385",
+                "Address": "960 Wentz Road",
+                "City": "Blue Bell",
+                "State": "PA",
+                "Zip": "19422",
+                "Municipality": "Whitpain",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.sars.org/",
+                "Type": "EMS",
+                "GlobalID": "82f79422-8685-4d0e-b3ba-086bbbc505e2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1069528703317,
+                    40.1750895907436
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES384@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Second Alarmers Rescue Squad",
+                "EMS_Num": "384",
+                "Address": "118 South York Road",
+                "City": "Hatboro",
+                "State": "PA",
+                "Zip": "19040",
+                "Municipality": "Hatboro",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.sars.org/",
+                "Type": "EMS",
+                "GlobalID": "f4a819cb-6c7c-4ed6-8c96-e081ce2cf5ce"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1119924796534,
+                    40.1448952816836
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES381@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Second Alarmers Rescue Squad",
+                "EMS_Num": "381",
+                "Address": "307 Davisville Road",
+                "City": "Willow Grove",
+                "State": "PA",
+                "Zip": "19090",
+                "Municipality": "Upper Moreland\u00a0",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.sars.org/",
+                "Type": "EMS",
+                "GlobalID": "9596b57c-92e5-48f3-ad57-7bd0e8320833"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1651678435116,
+                    40.1120009531884
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES383@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Second Alarmers Rescue Squad",
+                "EMS_Num": "383",
+                "Address": "2843 Limekiln Pike",
+                "City": "Glenside",
+                "State": "PA",
+                "Zip": "19038",
+                "Municipality": "Abington",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.sars.org/",
+                "Type": "EMS",
+                "GlobalID": "c786a202-f04b-4c47-9578-fb281db5d25b"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4080023313638,
+                    40.2218048998633
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES336@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Skippack Emergency Medical Services",
+                "EMS_Num": "336",
+                "Address": "4058 Mensch Road",
+                "City": "Skippack",
+                "State": "PA",
+                "Zip": "19474",
+                "Municipality": "Skippack",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.skippackems.org/",
+                "Type": "EMS",
+                "GlobalID": "1c1977d4-abb8-4780-ae9a-9088d4a2fbaf"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4900460248382,
+                    40.394071301159
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES369@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Upper Perkiomen Valley Ambulance",
+                "EMS_Num": "369",
+                "Address": "2199 East Buck Road",
+                "City": "Pennsburg",
+                "State": "PA",
+                "Zip": "18073",
+                "Municipality": "Upper Hanover",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://upperperkambulance.org/en/",
+                "Type": "EMS",
+                "GlobalID": "7639a043-b315-44c7-b637-5791e406b62d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2255134835142,
+                    40.2367160880597
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345A",
+                "Address": "1001 Stump Road",
+                "City": "North Wales",
+                "State": "PA",
+                "Zip": "19446",
+                "Municipality": "Montgomery",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "05b246dd-ea43-4475-9e3e-1fd72fe836ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2715482603831,
+                    40.2518450463728
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345",
+                "Address": "175 Medical Campus Drive",
+                "City": "Lansdale",
+                "State": "PA",
+                "Zip": "19446",
+                "Municipality": "Hatfield",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "0d738559-9178-4c26-b0eb-8a4f37a48d9a"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3028823924912,
+                    40.2399892985412
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345B@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345B",
+                "Address": "988 Allentown Road",
+                "City": "Lansdale",
+                "State": "PA",
+                "Zip": "19446",
+                "Municipality": "Upper Gwynedd",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "2a57fbc9-cf37-4360-aadf-85d2958e15bf"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2851044511507,
+                    40.007421263322
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES313@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lower Merion and Narberth",
+                "EMS_Num": "313",
+                "Address": "101 Sibley Avenue",
+                "City": "Ardmore",
+                "State": "PA",
+                "Zip": "19003",
+                "Municipality": "Lower Merion",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.narberthambulance.org/",
+                "Type": "EMS",
+                "GlobalID": "34d2cb19-078a-4ec6-b1fd-bf7ae095dbcf"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2605009901701,
+                    40.094959034352
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES318@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Whitemarsh Ambulance",
+                "EMS_Num": "318",
+                "Address": "4019 Joshua Road",
+                "City": "Lafayette Hill",
+                "State": "PA",
+                "Zip": "19444",
+                "Municipality": "Whitemarsh",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://whitemarshems.org/",
+                "Type": "EMS",
+                "GlobalID": "ddd02aa1-3723-4544-8b03-a28ada13e576"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3201404168505,
+                    40.2711382358448
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345C@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345C",
+                "Address": "380 Fairgrounds Road",
+                "City": "Hatfield",
+                "State": "PA",
+                "Zip": "19440",
+                "Municipality": "Hatfield",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "e10ad514-28f9-4332-9028-9cd85526c9e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5267442811462,
+                    40.1335029266114
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A65@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tower Direct",
+                "EMS_Num": "3A65",
+                "Address": "150 Paradise Street",
+                "City": "Phoenixville",
+                "State": "PA",
+                "Zip": "19460",
+                "Municipality": "Phoenixville",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "976c2ede-a914-4c8c-9405-f4d6757dee98"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3301726927108,
+                    40.0871606652536
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES356@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Upper Merion EMS - Main Station",
+                "EMS_Num": "356",
+                "Address": "609 A Street",
+                "City": "King of Prussia",
+                "State": "PA",
+                "Zip": "19406",
+                "Municipality": "Upper Merion",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.uppermerionfireems.org/",
+                "Type": "EMS",
+                "GlobalID": "edd9900c-c21d-4feb-83df-0821f1721538"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3831580469864,
+                    40.0908806714644
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES356A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Upper Merion EMS",
+                "EMS_Num": "356A",
+                "Address": "170 Allendale Road",
+                "City": "King of Prussia",
+                "State": "PA",
+                "Zip": "19406",
+                "Municipality": "Upper Merion",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.uppermerionfireems.org/",
+                "Type": "EMS",
+                "GlobalID": "aa03e8b9-3f50-411d-a9c7-9a56d6a08f9d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1305851430187,
+                    40.183012637963
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES352@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Horsham Fire Company Ambulance",
+                "EMS_Num": "352",
+                "Address": "315 Meetinghouse Road",
+                "City": "Horsham",
+                "State": "PA",
+                "Zip": "19044",
+                "Municipality": "Horsham",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.horsham.org/pView.aspx?id=10544&catid=611",
+                "Type": "EMS",
+                "GlobalID": "40fed833-04da-4639-86e5-190bd0c2158f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3495596129646,
+                    40.2032384133691
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES336A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Skippack Emergency Medical Services Sub Station",
+                "EMS_Num": "336A",
+                "Address": "3103 Skippack Pike",
+                "City": "Lansdale",
+                "State": "PA",
+                "Zip": "19446",
+                "Municipality": "Worcester",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.skippackems.org/",
+                "Type": "EMS",
+                "GlobalID": "e07514b3-66e6-47f8-9ce8-fd753b40b641"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3254522202234,
+                    40.3147098762773
+                ]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345D@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345D",
+                "Address": "266 North Second Street",
+                "City": "Souderton",
+                "State": "PA",
+                "Zip": "18964",
+                "Municipality": "Souderton",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "ec5c4df1-8fe5-4e3c-9d1f-50a6fee53a64"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3777203403955,
+                    40.2689704527618
+                ]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES376@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Freedom Valley Medical Rescue",
+                "EMS_Num": "376",
+                "Address": "309 Main Street",
+                "City": "Harleysville",
+                "State": "PA",
+                "Zip": "19438",
+                "Municipality": "Lower Salford",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "http://fvmedrescue.org/",
+                "Type": "EMS",
+                "GlobalID": "b90876ff-343b-438c-9b3d-615f21f18bf9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5228738964522,
+                    40.2317789128454
+                ]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES376A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Freedom Valley Medical Rescue",
+                "EMS_Num": "376A",
+                "Address": "390 West Ridge Pike",
+                "City": "Royersford",
+                "State": "PA",
+                "Zip": "19468",
+                "Municipality": "Limerick",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "http://fvmedrescue.org/",
+                "Type": "EMS",
+                "GlobalID": "c6e06ed6-f446-48c0-96fa-53b647920f08"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2963961804065,
+                    40.1272532463452
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES308F@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Plymouth Community Ambulance Association",
+                "EMS_Num": "308F",
+                "Address": "902 Germantown Pike",
+                "City": "Plymouth Meeting",
+                "State": "PA",
+                "Zip": "19463",
+                "Municipality": "Plymouth",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.medic308.org/",
+                "Type": "EMS",
+                "GlobalID": "d9f606c5-fa2a-463c-a4dc-44a049711ab9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3010264643965,
+                    40.0049168460668
+                ]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A108@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lower Merion & Narberth",
+                "EMS_Num": "6A108",
+                "Address": "800 Ardmore Ave",
+                "City": "Ardmore",
+                "State": "PA",
+                "Zip": "19444",
+                "Municipality": "Haverford",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "1577d12d-8629-4aba-b693-12b9bfaa65af"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3099083995568,
+                    39.9878429501132
+                ]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A108A@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lower Merion & Narberth",
+                "EMS_Num": "6A108A",
+                "Address": "2325 West Darby Road",
+                "City": "Havertown",
+                "State": "PA",
+                "Zip": "19083",
+                "Municipality": "Haverford",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "0d58a955-0fa0-4d8f-b07f-124c9b8643ad"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5367539434046,
+                    40.1797501206768
+                ]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES325F@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Friendship of Royersford",
+                "EMS_Num": "325F",
+                "Address": "269 Green Street",
+                "City": "Royersford",
+                "State": "PA",
+                "Zip": "19468",
+                "Municipality": "Royersford",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.rfd98.org/content/services/ems.cfm",
+                "Type": "EMS",
+                "GlobalID": "2b1005ca-9f92-4188-b34b-b7d7d89ade4b"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3201404168505,
+                    40.2711382358448
+                ]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345F@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Volunteer Medical Service Corps of Lansdale",
+                "EMS_Num": "345F",
+                "Address": "380 Fairgrounds Road",
+                "City": "Hatfield",
+                "State": "PA",
+                "Zip": "19440",
+                "Municipality": "Hatfield",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.vmsclansdale.org/",
+                "Type": "EMS",
+                "GlobalID": "420229da-92f0-4271-8387-d8351175fae6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4279868614257,
+                    40.0735959604406
+                ]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A102@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Berwyn EMS",
+                "EMS_Num": "3A102",
+                "Address": "1485 Valley Forge Rd",
+                "City": "Wayne",
+                "State": "PA",
+                "Zip": "19087",
+                "Municipality": "Tredyffrin",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "2d242a7f-fb33-4585-bbb1-4e244ea497b0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4905061233993,
+                    40.1618935281593
+                ]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES325A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Friendship of Royersford",
+                "EMS_Num": "325A",
+                "Address": "1315 Black Rock Road",
+                "City": "Phoenixville",
+                "State": "PA",
+                "Zip": "19460",
+                "Municipality": "Upper Providence",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.rfd98.org/content/services/ems.cfm",
+                "Type": "EMS",
+                "GlobalID": "b641c5a9-49ea-4033-83cd-140aeb219b53"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6560069697565,
+                    40.2332206553577
+                ]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A84@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Goodwill Stream Ambulance Sub Station 329A",
+                "EMS_Num": "3A84",
+                "Address": "144 West Schuylkill Road",
+                "City": "Pottstown",
+                "State": "PA",
+                "Zip": "19465",
+                "Municipality": "North Coventry",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "d0568371-d3e0-401e-9592-e7021645e2ce"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5453399757448,
+                    40.177627802151
+                ]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A83@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Friendship Fire Company Sub Station 325B",
+                "EMS_Num": "3A83",
+                "Address": "20 South Main Street",
+                "City": "Spring City",
+                "State": "PA",
+                "Zip": "19475",
+                "Municipality": "Spring City",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "f203bb5c-50e3-46bc-966a-d6844fb3c5ca"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5290593196529,
+                    40.1282040717089
+                ]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A67@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "West End Ambulance",
+                "EMS_Num": "3A67",
+                "Address": "801 West Bridge Street",
+                "City": "Phoenixville",
+                "State": "PA",
+                "Zip": "19460",
+                "Municipality": "Phoenixville",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "168958b5-f4fb-498a-9905-da85094d9d13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9622208016691,
+                    40.1211533205452
+                ]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A186@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Bensalem EMS",
+                "EMS_Num": "4A186",
+                "Address": "3420 Street Road",
+                "City": "Bensalem",
+                "State": "PA",
+                "Zip": "19020",
+                "Municipality": "Bensalem",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "79ae4bce-1d94-453a-bfbb-f2666927462d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0987991374505,
+                    40.2044641924395
+                ]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A174@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Central Bucks EMS",
+                "EMS_Num": "4A174",
+                "Address": "555 Evergreen Avenue",
+                "City": "Warminster",
+                "State": "PA",
+                "Zip": "18974",
+                "Municipality": "Warminster",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "8f46b22f-e00a-4dfd-8ea2-6e7b277f54de"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8533160527002,
+                    40.1570388950907
+                ]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A154@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Levittown - Fairless Hills Rescue Squad 154",
+                "EMS_Num": "4A154",
+                "Address": "7405 New Falls Road",
+                "City": "Levittown",
+                "State": "PA",
+                "Zip": "19055",
+                "Municipality": "Bristol",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "2c34f070-e808-41a7-980f-43f07b9de3e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3264950561161,
+                    40.363032105761
+                ]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A151@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Grandview Hospital Medic 151",
+                "EMS_Num": "4A151",
+                "Address": "700 Lawn Avenue",
+                "City": "Sellersville",
+                "State": "PA",
+                "Zip": "18960",
+                "Municipality": "West Rockhill",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "ff52c215-e3a1-4c05-ad11-e11d9c6ba414"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.204235175096,
+                    40.2953292024385
+                ]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A134@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Chal-Brit Regional EMS",
+                "EMS_Num": "4A134",
+                "Address": "201 Park Avenue",
+                "City": "Chalfont",
+                "State": "PA",
+                "Zip": "18914",
+                "Municipality": "New Britain",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "af04266f-620c-4e20-bfd4-2cd17c632a79"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1357993536177,
+                    40.2468939163549
+                ]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A129@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Warrington Community Ambulance Corp",
+                "EMS_Num": "4A129",
+                "Address": "1140 Easton Road ",
+                "City": "Warrington",
+                "State": "PA",
+                "Zip": "18976",
+                "Municipality": "Warrington",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "03ca0230-e964-4c65-a87c-644adb56bae7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9971385051421,
+                    40.1561096019568
+                ]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A114@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tri Hampton Rescue Squad",
+                "EMS_Num": "4A114",
+                "Address": "1440 Bridgetown Pike",
+                "City": "Feasterville-Trevose",
+                "State": "PA",
+                "Zip": "19053",
+                "Municipality": "Lower Southampton",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "dc73faef-c5e9-4f7c-92c6-8dd2c4e7caa2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0376955049523,
+                    40.1714923283166
+                ]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A113@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tri Hampton Rescue Squad",
+                "EMS_Num": "4A113",
+                "Address": "917 Street Road",
+                "City": "Southampton",
+                "State": "PA",
+                "Zip": "18966",
+                "Municipality": "Upper Southampton",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "5516c2d5-d508-455b-8d4b-f720878912f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3488100863183,
+                    40.4387457485809
+                ]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A108@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Quakertown Medics - St Luke\u2019s Emergency & Transport Services",
+                "EMS_Num": "4A108",
+                "Address": "126 South 10th Street",
+                "City": "Quakertown",
+                "State": "PA",
+                "Zip": "18951",
+                "Municipality": "Quakertown",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "fa267b12-639c-4ffd-a1bf-a348dbe13e30"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0845002346662,
+                    40.064016586574
+                ]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "DiscrpAgID": "philadelphia.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES5A96@philadelphia.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Burholme First Aid Corps",
+                "EMS_Num": "5A96",
+                "Address": "830 Bleigh Avenue",
+                "City": "Philadelphia",
+                "State": "PA",
+                "Zip": "19111",
+                "Municipality": "Philadelphia",
+                "County": "Philadelphia County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "6486057b-b58a-4ba1-bdf4-eeb2fcd05aa3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5893556759544,
+                    40.401043410558
+                ]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "DiscrpAgID": "berks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES7A505@berks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Bally EMS",
+                "EMS_Num": "7A505",
+                "Address": "537 Chestnut Street",
+                "City": "Bally",
+                "State": "PA",
+                "Zip": "19503",
+                "Municipality": "Bally",
+                "County": "Berks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "dd2fddde-6729-4f0c-98d8-4f3d87d817b7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6407943080308,
+                    40.3310117188186
+                ]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "DiscrpAgID": "berks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES7A525@berks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Boyertown EMS",
+                "EMS_Num": "7A525",
+                "Address": "2 East Second Street",
+                "City": "Boyertown",
+                "State": "PA",
+                "Zip": "18512",
+                "Municipality": "Boyertown",
+                "County": "Berks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "a3f83494-22c9-4e7b-a6de-66ce0accb5b4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4772206337347,
+                    40.1981855714497
+                ]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES336B@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Skippack Ambulance Sub Station 336B",
+                "EMS_Num": "336B",
+                "Address": "20 W Fifth Avenue",
+                "City": "Trappe",
+                "State": "PA",
+                "Zip": "19426",
+                "Municipality": "Trappe",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "http://fvmedrescue.org/",
+                "Type": "EMS",
+                "GlobalID": "0ec26dda-34d5-4aab-8f1e-598556b354d0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.376196214635,
+                    40.288922124695
+                ]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES345E@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Lansdale VMSC Ambulance Sub Station ",
+                "EMS_Num": "345E",
+                "Address": "800 Maple Avenue",
+                "City": "Harleysville",
+                "State": "PA",
+                "Zip": "19438",
+                "Municipality": "Franconia",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "http://fvmedrescue.org/",
+                "Type": "EMS",
+                "GlobalID": "b0ec9f33-b494-4dcd-a92f-e3be7ba744e5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7532198245882,
+                    40.2650285785566
+                ]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "DiscrpAgID": "berks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES7A684@berks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tower Direct",
+                "EMS_Num": "7A684",
+                "Address": "824 E Benjamin Franklin Hwy",
+                "City": "Douglassville",
+                "State": "PA",
+                "Zip": "19518",
+                "Municipality": "Amity",
+                "County": "Berks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "23a837f7-92e8-47c3-a1aa-08dabe91baa0"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3655415938471,
+                    39.983164851539
+                ]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A153@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Marple Ambulance Corps.",
+                "EMS_Num": "6A153",
+                "Address": "8 N Main Road",
+                "City": "Broomall",
+                "State": "PA",
+                "Zip": "19008",
+                "Municipality": "Marple",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "a44f8db1-8017-4d98-bbc1-eede3637ff0a"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3328127696728,
+                    39.9267622323493
+                ]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A44@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Springfield Township Ambulance",
+                "EMS_Num": "6A44",
+                "Address": "201 Saxer Ave",
+                "City": "Springfield",
+                "State": "PA",
+                "Zip": "19064",
+                "Municipality": "Springfield",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "3952070d-b3e4-4783-8391-c9002315ed45"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.280720993049,
+                    39.9648950862707
+                ]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A579@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Stat Medical Transport",
+                "EMS_Num": "6A579",
+                "Address": "24 Park Ave",
+                "City": "Upper Darby",
+                "State": "PA",
+                "Zip": "19082",
+                "Municipality": "Upper Darby",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "5465b174-bc80-448d-8357-75b63e11def1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4077906975493,
+                    39.9805670213354
+                ]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A104B@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Riddle Hosptial Ambulance",
+                "EMS_Num": "6A104B",
+                "Address": "209 Bishop Hollow Rd",
+                "City": "Newtown Square",
+                "State": "PA",
+                "Zip": "19073",
+                "Municipality": "Newtown",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "e2f6514f-b736-4a20-945d-a97741306b9d"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3877791334925,
+                    40.0432083544614
+                ]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A15@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Radnor Fire Company Ambulance",
+                "EMS_Num": "6A15",
+                "Address": "121 S Wayne Ave",
+                "City": "Wayne",
+                "State": "PA",
+                "Zip": "19087",
+                "Municipality": "Radnor",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "1ce39f6d-b4a4-4939-86a6-4494da97b753"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4444601488911,
+                    40.045621275986
+                ]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A2@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Berwyn EMS",
+                "EMS_Num": "3A2",
+                "Address": "23 Bridge Ave",
+                "City": "Devon",
+                "State": "PA",
+                "Zip": "19333",
+                "Municipality": "Easttown",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "442cca0b-4d25-455b-94ce-2533acee0660"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4811981483381,
+                    40.0404445552416
+                ]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "DiscrpAgID": "chester.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES3A3@chester.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Paoli Ambulance",
+                "EMS_Num": "3A3",
+                "Address": "69 Darby Rd",
+                "City": "Berwyn",
+                "State": "PA",
+                "Zip": "19312",
+                "Municipality": "Tredyffrin",
+                "County": "Chester County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "3c76626e-10cf-4bbd-8874-392247675699"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9385841884972,
+                    40.1087490512917
+                ]
+            },
+            "properties": {
+                "OBJECTID": 85,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A185@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Bensalem EMS",
+                "EMS_Num": "4A185",
+                "Address": "3830 Hulmeville Rd",
+                "City": "Bensalem",
+                "State": "PA",
+                "Zip": "19020",
+                "Municipality": "Bensalem",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "53b53499-7657-4d5f-ac85-d9bec3c45eae"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0090650355164,
+                    40.2111440197582
+                ]
+            },
+            "properties": {
+                "OBJECTID": 86,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A115@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tri Hampton Rescue Squad",
+                "EMS_Num": "4A115",
+                "Address": "140 Township Rd",
+                "City": "Richboro",
+                "State": "PA",
+                "Zip": "18954",
+                "Municipality": "Northampton",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "52af35b8-b321-4bee-a88e-7e96de2cfb61"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8161968727058,
+                    40.2666397755617
+                ]
+            },
+            "properties": {
+                "OBJECTID": 87,
+                "DiscrpAgID": "berks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES7A681@berks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Tower Direct",
+                "EMS_Num": "7A681",
+                "Address": "318 W Main St",
+                "City": "Birdsboro",
+                "State": "PA",
+                "Zip": "19508",
+                "Municipality": "Birdsboro",
+                "County": "Berks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "29dbadbe-100e-4462-858f-1183948af8eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3328127696728,
+                    39.9267622323493
+                ]
+            },
+            "properties": {
+                "OBJECTID": 88,
+                "DiscrpAgID": "delaware.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES6A491@delaware.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "VMSC Chase Car",
+                "EMS_Num": "6A491",
+                "Address": "201 Saxer Ave",
+                "City": "Springfield",
+                "State": "PA",
+                "Zip": "19064",
+                "Municipality": "Springfield",
+                "County": "Delaware County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "6f5fd517-1ac7-445e-b7e4-3f6f7b82fe5b"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 401,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2973487182138,
+                    40.0742030067777
+                ]
+            },
+            "properties": {
+                "OBJECTID": 401,
+                "DiscrpAgID": "montgomery.state.pa.us",
+                "DateUpdate": 1749772800000,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES313A@montgomery.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "VMSC of Lower Merion and Narberth Sub Station",
+                "EMS_Num": "313A",
+                "Address": "500 East Hector Street",
+                "City": "Conshohocken",
+                "State": "PA",
+                "Zip": "19428",
+                "Municipality": "Conshohocken",
+                "County": "Montgomery County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": "https://www.narberthambulance.org/",
+                "Type": "EMS",
+                "GlobalID": "b4501814-b1c8-4403-ba1f-2d367d408a34"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 402,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2721965804776,
+                    40.3471403830409
+                ]
+            },
+            "properties": {
+                "OBJECTID": 402,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A159@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Chal-Brit Regional EMS",
+                "EMS_Num": "4A159",
+                "Address": "111 W Main St",
+                "City": "Silverdale",
+                "State": "PA",
+                "Zip": "18360",
+                "Municipality": "Silverdale",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "b1505d7e-ae2d-44dd-af4a-5108df327b65"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 403,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0895145165599,
+                    40.2456070267309
+                ]
+            },
+            "properties": {
+                "OBJECTID": 403,
+                "DiscrpAgID": "bucks.state.pa.us",
+                "DateUpdate": null,
+                "Effective": null,
+                "Expire": null,
+                "ES_NGUID": "ES4A176@bucks.state.pa.us",
+                "Agency_ID": null,
+                "DsplayName": "Central Bucks EMS",
+                "EMS_Num": "4A176",
+                "Address": "1501 Meyer Way",
+                "City": "Jamison",
+                "State": "PA",
+                "Zip": "18929",
+                "Municipality": "Warwick",
+                "County": "Bucks County",
+                "ServiceURI": null,
+                "ServiceURN": null,
+                "ServiceNum": null,
+                "AVcard_URI": null,
+                "GC_Exception": null,
+                "Web_URL": null,
+                "Type": "EMS",
+                "GlobalID": "38c5ba43-aaab-43f4-9890-8a5aa9b93d29"
+            }
+        }
+    ]
+}
