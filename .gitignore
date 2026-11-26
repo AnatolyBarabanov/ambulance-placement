@@ -28,9 +28,7 @@ Thumbs.db
 *.tmp
 *.log
 
-# Large raw geographic datasets
-data/raw/*.zip
-data/raw/*.graphml
+
 
 # Generated HTML maps
 visualizations/*.html
