@@ -1,0 +1,13 @@
+
+numpy
+pandas
+matplotlib
+scipy
+requests
+osmnx
+geopandas
+folium
+networkx
+shapely
+pyproj
+pytest
