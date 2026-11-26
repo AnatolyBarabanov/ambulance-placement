@@ -164,15 +164,18 @@ def generate_map(n, seed=42):
             area_type, rng
         )
 
+        
         neighborhood = {
             "id": i,
             "x": x,
             "y": y,
+            "area": area_type,
             "area_type": area_type,
             "population": population,
             "is_candidate": i in candidate_ids,
             **vulnerability
         }
+
 
         neighborhoods.append(neighborhood)
 
@@ -228,7 +231,12 @@ def generate_map(n, seed=42):
 
             rush_hour_time = normal_time * traffic_factor
 
+            
             road = {
+                "u": road_id[0],
+                "v": road_id[1],
+                "minutes": round(normal_time, 4),
+                "rush_minutes": round(rush_hour_time, 4),
                 "source": road_id[0],
                 "target": road_id[1],
                 "distance_km": round(distance, 4),
@@ -236,6 +244,7 @@ def generate_map(n, seed=42):
                 "normal_time": round(normal_time, 4),
                 "rush_hour_time": round(rush_hour_time, 4)
             }
+
 
             roads.append(road)
 
